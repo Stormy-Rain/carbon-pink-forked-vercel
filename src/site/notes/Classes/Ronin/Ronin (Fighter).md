@@ -167,7 +167,7 @@ Different [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] choose different ap
 Martial Archetypes
 · [[Classes/Ronin/Martial Archetypes (Subclasses)/Biker (Cavalier)\|Biker (Cavalier)]]
 · [[Classes/Ronin/Martial Archetypes (Subclasses)/Codebreaker (Rune Knight)\|Codebreaker (Rune Knight)]]
-· [[Hardlight Warrior (Echo Knight)\|Hardlight Warrior (Echo Knight)]]
+· [[Classes/Ronin/Martial Archetypes (Subclasses)/Hardlight Warrior (Echo Knight)\|Hardlight Warrior (Echo Knight)]]
 · [[Samurai (Samurai)\|Samurai (Samurai)]]
 · [[Special Operative (Psi Warrior\|Special Operative (Psi Warrior]]
 · [[Tactical Sniper (Arcane Archer)\|Tactical Sniper (Arcane Archer)]]
