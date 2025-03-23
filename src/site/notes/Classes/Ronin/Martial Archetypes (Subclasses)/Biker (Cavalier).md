@@ -3,6 +3,9 @@
 ---
 
 ## “Baby, I was born to be wild.”
+[SlimWiki](https://slimwiki.com/carbon-pink/public-wiki-w-knoldiw/biker)
+[5E Cavalier](https://dnd5e.wikidot.com/fighter:cavalier)
+
 Bikers are warriors who excel at vehicular combat. Though the vast majority of them use motorcycles—as the name alludes—some also drive other vehicles. The only requirement for a biker is that their vehicle be fast and maneuverable. Beyond that, everything else is negotiable. The archetypal image of a biker in the modern world is one of a gang member who protects “his people” at any cost, so many bikers also excel at defending the people in their care.
 
 #### Bonus Proficiency
@@ -21,7 +24,7 @@ Starting at 3rd level, you can menace your foes, foiling their attacks and punis
 
 While it is within 5 feet of you, a creature marked by you has disadvantage on any attack roll that doesn’t target you.
 
-In addition, if a creature marked by you deals damage to anyone other than you, you can make a special [[melee weapon\|melee weapon]] attack against the marked creature as a bonus action on your next turn. You have advantage on the attack roll, and if it hits, the attack’s [[weapon\|weapon]] deals extra damage to the target equal to half your [[Classes/Ronin/Ronin\|Ronin]] level.
+In addition, if a creature marked by you deals damage to anyone other than you, you can make a special [[melee weapon\|melee weapon]] attack against the marked creature as a bonus action on your next turn. You have advantage on the attack roll, and if it hits, the attack’s [[weapon\|weapon]] deals extra damage to the target equal to half your [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] level.
 
 Regardless of the number of creatures you mark, you can make this special attack a number of times equal to your Strength modifier (minimum 1), and you regain all expended uses of it when you finish a long rest.
 

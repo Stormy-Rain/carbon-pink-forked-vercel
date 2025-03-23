@@ -3,6 +3,9 @@
 ---
 
 ## “This room smells of mathematics! Go out and fetch a disinfectant spray!”
+[SlimWiki](https://slimwiki.com/carbon-pink/public-wiki-w-knoldiw/codebreaker)
+[5E Cavalier](https://dnd5e.wikidot.com/fighter:rune-knight)
+
 Codebreakers enhance their martial prowess with bits and pieces of the Old Web, programming code that predates the New World and which hold the building blocks of all modern computing and genetic engineering. By utilizing these special codes in their [[Equipment/Weapons\|weapons]], [[implants\|implants]], and [[loot#peripherals\|peripherals]], codebreakers tap into a technological power that the corporations would love to suppress—or control.  
 
 #### Bonus Proficiencies
@@ -15,7 +18,7 @@ Starting at 3rd level, you can use fragments of ancient code to enhance your gea
 
 #### Codes Known
 
-|[[Classes/Ronin/Ronin\|Ronin]] Level| Number of Codes|
+|[[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] Level| Number of Codes|
 |3rd lvl|2|
 |7th| 3|
 |10th| 4|
