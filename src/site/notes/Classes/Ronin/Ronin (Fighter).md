@@ -1,13 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ronin/ronin-fighter/","noteIcon":"sword","updated":"2025-03-23T13:58:55.410-07:00"}
+{"dg-publish":true,"permalink":"/classes/ronin/ronin-fighter/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-03-23T14:14:14.873-07:00"}
 ---
 
-
-dg-metatags:
- og:image: /img/Logo.png
-dg-publish: true
-dg-note-icon: sword
-noteIcon: sword
 ## “Hit ‘em hard and don’t let up. You’ll know it’s over when the screaming stops.”
 <sub>As Seen on [SlimWiki](https://slimwiki.com/carbon-pink/public-wiki-w-knoldiw/ronin-nayznxnz74_x) and [5E Fighter](https://dnd5e.wikidot.com/fighter)!</sub>
 
