@@ -17,24 +17,24 @@ When you reach certain levels in this class, the size of your Biokinetic Energy 
 
 
 ##### The powers below use your Biokinetic Energy dice.
-- Protective Field. 
-When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Biokinetic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.
+> [!info] Protective Field. 
+> When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Biokinetic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.
 
-- Power Strike. 
-You can propel your [[Equipment/Weapons\|Weapons]] with kinetic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a [[Equipment/Weapons\|weapon]], you can expend one Biokinetic Energy die, rolling it and dealing kinetic damage to the target equal to the number rolled plus your Intelligence modifier.
+> [!info] Power Strike. 
+> You can propel your [[Equipment/Weapons\|Weapons]] with kinetic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a [[Equipment/Weapons\|weapon]], you can expend one Biokinetic Energy die, rolling it and dealing kinetic damage to the target equal to the number rolled plus your Intelligence modifier.
 
-- Telekinetic Movement. 
-You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can’t do so again until you finish a short or long rest, unless you expend a Biokinetic Energy die to take it again.
+> [!info] Telekinetic Movement. 
+> You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can’t do so again until you finish a short or long rest, unless you expend a Biokinetic Energy die to take it again.
 
 
 #### Biokinetic Adept
 By 7th level, you have mastered new ways to use your biokinetic abilities, detailed below.
 
-- Powered Leap. 
-As a bonus action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this bonus action, you can’t do so again until you finish a short or long rest, unless you expend a Biokinetic Energy die to take it again.
+> [!info] Powered Leap. 
+> As a bonus action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this bonus action, you can’t do so again until you finish a short or long rest, unless you expend a Biokinetic Energy die to take it again.
 
-- Telekinetic Thrust. 
-When you deal damage to a target with your Power Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target prone or move it up to 10 feet in any direction horizontally.
+> [!info] Telekinetic Thrust. 
+> When you deal damage to a target with your Power Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target prone or move it up to 10 feet in any direction horizontally.
 
 
 #### Guarded Mind

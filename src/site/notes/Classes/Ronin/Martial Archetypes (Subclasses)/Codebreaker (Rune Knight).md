@@ -16,12 +16,12 @@ When you choose this archetype at 3rd level, you gain proficiency with programme
 Starting at 3rd level, you can use fragments of ancient code to enhance your gear. You learn two codes of your choice, from among the codes described below, and each time you gain a level in this class, you can replace one code you know with a different one from this feature. When you reach certain levels in this class, you learn additional codes, as shown in the Codes Known table.
 
 #### Codes Known
-
-|[[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] Level| Number of Codes|
-|3rd lvl|2|
-|7th| 3|
-|10th| 4|
-|15th| 5|
+| [[Classes/Ronin/Ronin (Fighter)\|Ronin]] Level | Number of Codes |
+| --- | --- |
+| 3rd lvl | 2 |
+| 7th lvl | 3 |
+| 10th lvl | 4 |
+| 15th lvl | 5 |
 
 Whenever you finish a long rest, you can touch a number of objects equal to the number of codes you know, and you insert a different code fragment into each of the objects. To be eligible, an object must be a [[Equipment/Weapons\|weapon]], a [[Equipment/Armor\|suit of armor]], a [[shield\|shield]], a piece of jewelry, or something else you can wear or hold in a hand. Your code remains in an object until you finish a long rest, and an object can bear only one of your codes at a time.
 
@@ -62,11 +62,12 @@ In addition, you can invoke the code as a bonus action, gaining resistance to bl
 
 At 3rd level, you have learned how to briefly alter your own genetic code to become a hulking monster. As a bonus action, you gain the following benefits, which last for 1 minute:
 
-· If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn’t change.
-
-· You have advantage on Strength checks and Strength saving throws.
-
-· Once on each of your turns, one of your attacks with a [[Equipment/Weapons\|weapon]] or an unarmed strike can deal an extra 1d6 damage to a target on a hit.
+> [!info]
+> · If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn’t change.
+> 
+> · You have advantage on Strength checks and Strength saving throws.
+> 
+> · Once on each of your turns, one of your attacks with a [[Equipment/Weapons\|weapon]] or an unarmed strike can deal an extra 1d6 damage to a target on a hit.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
 
