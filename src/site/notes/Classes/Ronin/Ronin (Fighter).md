@@ -3,8 +3,7 @@
 ---
 
 ## “Hit ‘em hard and don’t let up. You’ll know it’s over when the screaming stops.”
-[SlimWiki](https://slimwiki.com/carbon-pink/public-wiki-w-knoldiw/ronin-nayznxnz74_x)
-[5E Fighter](https://dnd5e.wikidot.com/fighter)
+<sub>As Seen on [SlimWiki](https://slimwiki.com/carbon-pink/public-wiki-w-knoldiw/ronin-nayznxnz74_x) and [5E Fighter](https://dnd5e.wikidot.com/fighter)!</sub>
 
 ![migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_183092_unknown.png](/img/user/Classes/Ronin/Img/migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_183092_unknown.png)
 >A [[Races/Human\|Human]] in stolen sec-force armor holds her [[Shield\|Shield]] before her as she charges the corpo bastards that showed up to bust the protest. An [[Elf\|Elf]] in fetish leather behind her peppers the massed security forces with bullets from a rifle painted hot pink. The [[Artificiate\|Artificiate]] nearby runs calculations on the best use of their allies’ force, feeding trajectories and tactical advice to them through their earpieces.
@@ -88,10 +87,10 @@ You have blindsight with a range of 10 feet. Within this range, you can effectiv
 While you are wearing [[Equipment/Armor\|Armor]], you gain a +1 bonus to AC.
 
 · Dueling. 
-When you are wielding a [[melee weapon\|melee weapon]] in one hand and no other [[Equipment/Weapons\|Weapons]], you gain a +2 bonus to damage rolls with that [[weapon\|weapon]].
+When you are wielding a [[melee weapon\|melee weapon]] in one hand and no other [[Equipment/Weapons\|Weapons]], you gain a +2 bonus to damage rolls with that [[Equipment/Weapons\|weapon]].
 
 · Great Weapon Fighting. 
-When you roll a 1 or 2 on a damage die for an attack you make with a [[melee weapon\|melee weapon]] that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The [[weapon\|weapon]] must have the two-handed or versatile property for you to gain this benefit.
+When you roll a 1 or 2 on a damage die for an attack you make with a [[melee weapon\|melee weapon]] that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The [[Equipment/Weapons\|weapon]] must have the two-handed or versatile property for you to gain this benefit.
 
 · Gun Fu. 
 When making a ranged attack with a [[one-handed weapon\|one-handed weapon]] while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.
@@ -112,7 +111,7 @@ You gain a +2 bonus to attack rolls you make with [[Equipment/Weapons\|two-hande
 You learn one maneuver of your choice from among those available to the Tactician archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice). You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 · Thrown Weapon Fighting. 
-You can draw a [[weapon\|weapon]] that has the [[weapon\|thrown property]] as part of the attack you make with the [[weapon\|weapon]]. In addition, when you hit with a ranged attack using a [[thrown weapon\|thrown weapon]], you gain a +2 bonus to the damage roll.
+You can draw a [[Equipment/Weapons\|weapon]] that has the [[weapon\|thrown property]] as part of the attack you make with the [[Equipment/Weapons\|weapon]]. In addition, when you hit with a ranged attack using a [[thrown weapon\|thrown weapon]], you gain a +2 bonus to the damage roll.
 
 · Two-Weapon Fighting. 
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
@@ -168,8 +167,8 @@ Martial Archetypes
 · [[Classes/Ronin/Martial Archetypes (Subclasses)/Biker (Cavalier)\|Biker (Cavalier)]]
 · [[Classes/Ronin/Martial Archetypes (Subclasses)/Codebreaker (Rune Knight)\|Codebreaker (Rune Knight)]]
 · [[Classes/Ronin/Martial Archetypes (Subclasses)/Hardlight Warrior (Echo Knight)\|Hardlight Warrior (Echo Knight)]]
-· [[Samurai (Samurai)\|Samurai (Samurai)]]
-· [[Special Operative (Psi Warrior\|Special Operative (Psi Warrior]]
+· [[Classes/Ronin/Martial Archetypes (Subclasses)/Samurai (Samurai)\|Samurai (Samurai)]]
+· [[Classes/Ronin/Martial Archetypes (Subclasses)/Special Operative (Psi Warrior)\|Special Operative (Psi Warrior)]]
 · [[Tactical Sniper (Arcane Archer)\|Tactical Sniper (Arcane Archer)]]
 · [[Tactician (Battle Master)\|Tactician (Battle Master)]]
 · [[Techno-Blade (Eldritch Knight)\|Techno-Blade (Eldritch Knight)]]
