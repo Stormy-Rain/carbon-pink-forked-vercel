@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ronin/ronin-fighter/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-03-23T14:14:14.873-07:00"}
+{"dg-publish":true,"permalink":"/classes/ronin/ronin-fighter/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-03-23T14:18:27.303-07:00"}
 ---
 
 ## “Hit ‘em hard and don’t let up. You’ll know it’s over when the screaming stops.”
 <sub>As Seen on [SlimWiki](https://slimwiki.com/carbon-pink/public-wiki-w-knoldiw/ronin-nayznxnz74_x) and [5E Fighter](https://dnd5e.wikidot.com/fighter)!</sub>
 
-![migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_183092_unknown.png](/img/user/Classes/Ronin/migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_183092_unknown.png)
+![migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_183092_unknown.png](/img/user/Classes/Ronin/Img/migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_183092_unknown.png)
 >A [[Races/Human\|Human]] in stolen sec-force armor holds her [[Shield\|Shield]] before her as she charges the corpo bastards that showed up to bust the protest. An [[Elf\|Elf]] in fetish leather behind her peppers the massed security forces with bullets from a rifle painted hot pink. The [[Artificiate\|Artificiate]] nearby runs calculations on the best use of their allies’ force, feeding trajectories and tactical advice to them through their earpieces.
 
 >A [[Jerboan\|Jerboan]] in riot armor interposes his [[Shield\|Shield]] between a titan’s massive steel girder club and his companions, deflecting the deadly blow. His companion, a [[Wukong\|Wukong]] armed with twin machetes, launches from the ground, scampering across the massive foe to seek a weak spot in its defenses.
@@ -48,7 +48,7 @@ Some [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] wind up on the outs with
 |19|+6 Ability Score Improvement, Martial Versatility|
 |20|+6 Extra Attack (3)|
 
-![migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180286_E567E2D3-ECA8-4553-AABA-166741590871.png](/img/user/Classes/Ronin/migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180286_E567E2D3-ECA8-4553-AABA-166741590871.png)
+![migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180286_E567E2D3-ECA8-4553-AABA-166741590871.png](/img/user/Classes/Ronin/Img/migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180286_E567E2D3-ECA8-4553-AABA-166741590871.png)
 
 ## Class Features
 

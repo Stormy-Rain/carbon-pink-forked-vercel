@@ -5,7 +5,7 @@
 ## “I’ve done unspeakable things for ungrateful assholes. Imagine what I’m capable of doing for someone I actually like.”
 <sub>As Seen on [SlimWiki](https://slimwiki.com/carbon-pink/public-wiki-w-knoldiw/special-operative) and [5E Psi Warrior](https://dnd5e.wikidot.com/fighter:psi-warrior)!</sub>
 
-Filled to the brim with cutting-edge [[implants\|implants]] and [[gene-mods\|gene-mods]], special operatives use their unique talents to overcome challenges. Their internal wellspring of power—a series of biokinetic batteries—lets them generate destructive discharges of energy through their [[Equipment/Weapons\|Weapons]], manifest force fields, and otherwise alter the world around them in ways that defy ordinary physics.
+Filled to the brim with cutting-edge [[implants\|implants]] and [[gene-mods\|gene-mods]], special operatives use their unique talents to overcome challenges. Their internal wellspring of power—a series of biokinetic batteries—lets them generate destructive discharges of energy through their [[Weapons\|Weapons]], manifest force fields, and otherwise alter the world around them in ways that defy ordinary physics.
 
 
 #### Biokinetic Power
@@ -21,7 +21,7 @@ When you reach certain levels in this class, the size of your Biokinetic Energy 
 > When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Biokinetic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.
 
 > [!info] Power Strike. 
-> You can propel your [[Equipment/Weapons\|Weapons]] with kinetic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a [[Equipment/Weapons\|weapon]], you can expend one Biokinetic Energy die, rolling it and dealing kinetic damage to the target equal to the number rolled plus your Intelligence modifier.
+> You can propel your [[Weapons\|Weapons]] with kinetic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a [[Weapons\|weapon]], you can expend one Biokinetic Energy die, rolling it and dealing kinetic damage to the target equal to the number rolled plus your Intelligence modifier.
 
 > [!info] Telekinetic Movement. 
 > You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can’t do so again until you finish a short or long rest, unless you expend a Biokinetic Energy die to take it again.
@@ -48,6 +48,6 @@ Once you take this bonus action, you can’t do so again until you finish a long
 
 
 #### Biokinetic Master
-By 18th level, your ability to move creatures and objects with your mind is matched by few. You can cast the [[telekinesis tech\|telekinesis tech]], requiring no components, and your techcasting ability for the tech is Intelligence. On each of your turns while you concentrate on the tech, including the turn when you cast it, you can make one attack with a [[Equipment/Weapons\|weapon]] as a bonus action.
+By 18th level, your ability to move creatures and objects with your mind is matched by few. You can cast the [[telekinesis tech\|telekinesis tech]], requiring no components, and your techcasting ability for the tech is Intelligence. On each of your turns while you concentrate on the tech, including the turn when you cast it, you can make one attack with a [[Weapons\|weapon]] as a bonus action.
 
 Once you cast the tech with this feature, you can’t do so again until you finish a long rest, unless you expend a Biokinetic Energy die to cast it again.

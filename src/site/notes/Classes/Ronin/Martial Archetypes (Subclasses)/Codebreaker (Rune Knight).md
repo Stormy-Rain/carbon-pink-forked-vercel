@@ -5,7 +5,7 @@
 ## “This room smells of mathematics! Go out and fetch a disinfectant spray!”
 <sub>As Seen on [SlimWiki](https://slimwiki.com/carbon-pink/public-wiki-w-knoldiw/codebreaker) and [5E Rune Knight](https://dnd5e.wikidot.com/fighter:rune-knight)!</sub>
 
-Codebreakers enhance their martial prowess with bits and pieces of the Old Web, programming code that predates the New World and which hold the building blocks of all modern computing and genetic engineering. By utilizing these special codes in their [[Equipment/Weapons\|weapons]], [[implants\|implants]], and [[loot#peripherals\|peripherals]], codebreakers tap into a technological power that the corporations would love to suppress—or control.  
+Codebreakers enhance their martial prowess with bits and pieces of the Old Web, programming code that predates the New World and which hold the building blocks of all modern computing and genetic engineering. By utilizing these special codes in their [[Weapons\|weapons]], [[implants\|implants]], and [[loot#peripherals\|peripherals]], codebreakers tap into a technological power that the corporations would love to suppress—or control.  
 
 #### Bonus Proficiencies
 
@@ -23,7 +23,7 @@ Starting at 3rd level, you can use fragments of ancient code to enhance your gea
 | 10th lvl | 4 |
 | 15th lvl | 5 |
 
-Whenever you finish a long rest, you can touch a number of objects equal to the number of codes you know, and you insert a different code fragment into each of the objects. To be eligible, an object must be a [[Equipment/Weapons\|weapon]], a [[Equipment/Armor\|suit of armor]], a [[shield\|shield]], a piece of jewelry, or something else you can wear or hold in a hand. Your code remains in an object until you finish a long rest, and an object can bear only one of your codes at a time.
+Whenever you finish a long rest, you can touch a number of objects equal to the number of codes you know, and you insert a different code fragment into each of the objects. To be eligible, an object must be a [[Weapons\|weapon]], a [[Equipment/Armor\|suit of armor]], a [[shield\|shield]], a piece of jewelry, or something else you can wear or hold in a hand. Your code remains in an object until you finish a long rest, and an object can bear only one of your codes at a time.
 
 The following codes are available to you when you learn a code. If a code has a level requirement, you must be at least that level in this class to learn the code. If a code requires a saving throw, your save DC equals 8 + your proficiency bonus + your Constitution modifier.
 
@@ -45,7 +45,7 @@ In addition, you can invoke the code as a bonus action to increase your sturdine
 #### Maker’s Code. 
 While wearing or carrying an object inscribed with this code, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
 
-In addition, when you hit a creature with an attack using a [[Equipment/Weapons\|weapon]], you can invoke the code to summon electrified shackles: the target takes an extra 2d6 lightning damage, and it must succeed on a Strength saving throw or be restrained for 1 minute. While restrained by the shackles, the target takes 2d6 lightning damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, banishing the shackles on a success. Once you invoke this code, you can’t do so again until you finish a short or long rest.
+In addition, when you hit a creature with an attack using a [[Weapons\|weapon]], you can invoke the code to summon electrified shackles: the target takes an extra 2d6 lightning damage, and it must succeed on a Strength saving throw or be restrained for 1 minute. While restrained by the shackles, the target takes 2d6 lightning damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, banishing the shackles on a success. Once you invoke this code, you can’t do so again until you finish a short or long rest.
 
 #### Predictive Code (7th Level or Higher). 
 While wearing or carrying an object inscribed with this code, you have advantage on Intelligence (Technology) checks, and you can’t be surprised as long as you aren’t incapacitated.
@@ -67,7 +67,7 @@ At 3rd level, you have learned how to briefly alter your own genetic code to bec
 > 
 > · You have advantage on Strength checks and Strength saving throws.
 > 
-> · Once on each of your turns, one of your attacks with a [[Equipment/Weapons\|weapon]] or an unarmed strike can deal an extra 1d6 damage to a target on a hit.
+> · Once on each of your turns, one of your attacks with a [[Weapons\|weapon]] or an unarmed strike can deal an extra 1d6 damage to a target on a hit.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
 
