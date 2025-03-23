@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ronin/ronin-fighter/","noteIcon":"withered","updated":"2025-03-23T13:56:22.774-07:00"}
+{"dg-publish":true,"permalink":"/classes/ronin/ronin-fighter/","noteIcon":"sword","updated":"2025-03-23T13:58:55.410-07:00"}
 ---
 
 
