@@ -169,7 +169,7 @@ Martial Archetypes
 · [[Classes/Ronin/Martial Archetypes (Subclasses)/Hardlight Warrior (Echo Knight)\|Hardlight Warrior (Echo Knight)]]
 · [[Classes/Ronin/Martial Archetypes (Subclasses)/Samurai (Samurai)\|Samurai (Samurai)]]
 · [[Classes/Ronin/Martial Archetypes (Subclasses)/Special Operative (Psi Warrior)\|Special Operative (Psi Warrior)]]
-· [[Tactical Sniper (Arcane Archer)\|Tactical Sniper (Arcane Archer)]]
+· [[Classes/Ronin/Martial Archetypes (Subclasses)/Tactical Sniper (Arcane Archer)\|Tactical Sniper (Arcane Archer)]]
 · [[Tactician (Battle Master)\|Tactician (Battle Master)]]
 · [[Techno-Blade (Eldritch Knight)\|Techno-Blade (Eldritch Knight)]]
 · [[Vanguard (Banneret)\|Vanguard (Banneret)]]
