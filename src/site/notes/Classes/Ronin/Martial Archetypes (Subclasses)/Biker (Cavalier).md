@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ronin/martial-archetypes-subclasses/biker-cavalier/"}
+{"dg-publish":true,"permalink":"/classes/ronin/martial-archetypes-subclasses/biker-cavalier/","noteIcon":1,"updated":"2025-03-23T10:46:49.542-07:00"}
 ---
 
 ## “Baby, I was born to be wild.”

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ronin/martial-archetypes-subclasses/codebreaker-rune-knight/"}
+{"dg-publish":true,"permalink":"/classes/ronin/martial-archetypes-subclasses/codebreaker-rune-knight/","noteIcon":"","updated":"2025-03-23T10:03:08.488-07:00"}
 ---
 
 ## “This room smells of mathematics! Go out and fetch a disinfectant spray!”

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ronin/martial-archetypes-subclasses/tactical-sniper-arcane-archer/"}
+{"dg-publish":true,"permalink":"/classes/ronin/martial-archetypes-subclasses/tactical-sniper-arcane-archer/","noteIcon":"","updated":"2025-03-23T09:53:46.933-07:00"}
 ---
 
 ## “It’s the one you don’t hear that gets you.”

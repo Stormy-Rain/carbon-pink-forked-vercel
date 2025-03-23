@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ronin/martial-archetypes-subclasses/hardlight-warrior-echo-knight/"}
+{"dg-publish":true,"permalink":"/classes/ronin/martial-archetypes-subclasses/hardlight-warrior-echo-knight/","noteIcon":"","updated":"2025-03-23T08:16:52.781-07:00"}
 ---
 
 ## “The only thing better than me is two of me.”

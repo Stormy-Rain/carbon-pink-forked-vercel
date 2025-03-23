@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ronin/martial-archetypes-subclasses/samurai-samurai/"}
+{"dg-publish":true,"permalink":"/classes/ronin/martial-archetypes-subclasses/samurai-samurai/","noteIcon":"","updated":"2025-03-23T08:34:17.419-07:00"}
 ---
 
 ## “A samurai should always be prepared for death—whether his own or someone else’s.”

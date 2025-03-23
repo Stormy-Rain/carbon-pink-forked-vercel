@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ronin/martial-archetypes-subclasses/special-operative-psi-warrior/"}
+{"dg-publish":true,"permalink":"/classes/ronin/martial-archetypes-subclasses/special-operative-psi-warrior/","noteIcon":"","updated":"2025-03-23T09:56:22.081-07:00"}
 ---
 
 ## “I’ve done unspeakable things for ungrateful assholes. Imagine what I’m capable of doing for someone I actually like.”
