@@ -23,7 +23,7 @@ Starting at 3rd level, you can menace your foes, foiling their attacks and punis
 
 While it is within 5 feet of you, a creature marked by you has disadvantage on any attack roll that doesn’t target you.
 
-In addition, if a creature marked by you deals damage to anyone other than you, you can make a special [[melee weapon\|melee weapon]] attack against the marked creature as a bonus action on your next turn. You have advantage on the attack roll, and if it hits, the attack’s [[Weapons\|weapon]] deals extra damage to the target equal to half your [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] level.
+In addition, if a creature marked by you deals damage to anyone other than you, you can make a special [[melee weapon\|melee weapon]] attack against the marked creature as a bonus action on your next turn. You have advantage on the attack roll, and if it hits, the attack’s [[Equipment/Weapons\|weapon]] deals extra damage to the target equal to half your [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] level.
 
 Regardless of the number of creatures you mark, you can make this special attack a number of times equal to your Strength modifier (minimum 1), and you regain all expended uses of it when you finish a long rest.
 

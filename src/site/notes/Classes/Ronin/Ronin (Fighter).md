@@ -12,7 +12,7 @@
 
 >A [[Nayaling\|Nayaling]] smiles at the hovering camera drone, waving to their adoring fans before spitting out a mouthful of blood. They circle for advantage, trying to get on the knife-wielding hobo’s blind side. The hobo offers no such niceties, though, screaming in meth-induced rage before charging.
 
-All of these characters are [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]], warriors who rely on their skill, strategic ability, and tactical acumen to overcome challenges. Though they are all very different, they all share an unparalleled mastery of [[Weapons\|Weapons]] and [[Equipment/Armor\|Armor]], and a thorough knowledge of the skills of combat. [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] are well acquainted with death, both meting it out and staring it defiantly in the face.
+All of these characters are [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]], warriors who rely on their skill, strategic ability, and tactical acumen to overcome challenges. Though they are all very different, they all share an unparalleled mastery of [[Equipment/Weapons\|Weapons]] and [[Equipment/Armor\|Armor]], and a thorough knowledge of the skills of combat. [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] are well acquainted with death, both meting it out and staring it defiantly in the face.
 
 #### Battle-Hardened Specialists
 
@@ -63,7 +63,7 @@ Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per [[Clas
 #### Proficiencies
 
 [[Equipment/Armor\|Armor]]: All armor, [[Shield\|Shield]]s
-[[Weapons\|Weapons]]: [[Weapons#Civilian Weapons\|Civilian Weapons]], [[Weapons#Military Weapons\|Military Weapons]]
+[[Equipment/Weapons\|Weapons]]: [[Equipment/Weapons#Civilian Weapons\|Civilian Weapons]], [[Equipment/Weapons#Military Weapons\|Military Weapons]]
 Tools: None
 Saving Throws: Strength, Constitution
 Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
@@ -72,9 +72,9 @@ Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, 
 
 You start with the following equipment, in addition to the equipment granted by your background:
 > [!info]
-> · (a) [[Equipment/Armor\|Ceramiron Armor]] or (b) [[Equipment/Armor\|Nanofilm Armor]], [[Weapons\|Combat rifle]], and 20 bullets
-> · (a) a [[Weapons#Military Weapons\|Military Weapons]] and a [[Shield\|Shield]] or (b) two [[Weapons#Military Weapons\|Military Weapons]]
-> · (a) a [[Weapons\|Heavy Pistol]] and 20 bullets or (b) two [[Weapons\|light pistols]] and 20 bullets
+> · (a) [[Equipment/Armor\|Ceramiron Armor]] or (b) [[Equipment/Armor\|Nanofilm Armor]], [[Equipment/Weapons\|Combat rifle]], and 20 bullets
+> · (a) a [[Equipment/Weapons#Military Weapons\|Military Weapons]] and a [[Shield\|Shield]] or (b) two [[Equipment/Weapons#Military Weapons\|Military Weapons]]
+> · (a) a [[Equipment/Weapons\|Heavy Pistol]] and 20 bullets or (b) two [[Equipment/Weapons\|light pistols]] and 20 bullets
 > · (a) a delver’s pack or (b) a hobo’s pack
 
 
@@ -88,31 +88,31 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 > While you are wearing [[Equipment/Armor\|Armor]], you gain a +1 bonus to AC.
 
 > [!info] Dueling. 
-> When you are wielding a [[melee weapon\|melee weapon]] in one hand and no other [[Weapons\|Weapons]], you gain a +2 bonus to damage rolls with that [[Weapons\|weapon]].
+> When you are wielding a [[melee weapon\|melee weapon]] in one hand and no other [[Equipment/Weapons\|Weapons]], you gain a +2 bonus to damage rolls with that [[Equipment/Weapons\|weapon]].
 
 > [!info] Great Weapon Fighting. 
-> When you roll a 1 or 2 on a damage die for an attack you make with a [[melee weapon\|melee weapon]] that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The [[Weapons\|weapon]] must have the two-handed or versatile property for you to gain this benefit.
+> When you roll a 1 or 2 on a damage die for an attack you make with a [[melee weapon\|melee weapon]] that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The [[Equipment/Weapons\|weapon]] must have the two-handed or versatile property for you to gain this benefit.
 
 > [!info] Gun Fu. 
 > When making a ranged attack with a [[one-handed weapon\|one-handed weapon]] while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.
 
 > [!info] Interception. 
-> When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [[Shield\|Shield]] or a [[Weapons#Civilian Weapons\|Civilian]] or [[Weapons#Military Weapons\|Military weapon]] to use this reaction.
+> When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [[Shield\|Shield]] or a [[Equipment/Weapons#Civilian Weapons\|Civilian]] or [[Equipment/Weapons#Military Weapons\|Military weapon]] to use this reaction.
 
 > [!info] Protection. 
 > When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a [[Shield\|Shield]].
 
 > [!info] Pugilism. 
-> Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren’t wielding any [[Weapons\|Weapons]] or a [[Shield\|Shield]] when you make the attack roll, the d6 increases to d8.
+> Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren’t wielding any [[Equipment/Weapons\|Weapons]] or a [[Shield\|Shield]] when you make the attack roll, the d6 increases to d8.
 
 > [!info] Rifleman. 
-> You gain a +2 bonus to attack rolls you make with [[Weapons\|two-handed]] [[ranged weapons\|ranged weapons]].
+> You gain a +2 bonus to attack rolls you make with [[Equipment/Weapons\|two-handed]] [[ranged weapons\|ranged weapons]].
 
 > [!info] Tactical Technique. 
 > You learn one maneuver of your choice from among those available to the Tactician archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice). You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 > [!info] Thrown Weapon Fighting. 
-> You can draw a [[Weapons\|weapon]] that has the [[weapon\|thrown property]] as part of the attack you make with the [[Weapons\|weapon]]. In addition, when you hit with a ranged attack using a [[thrown weapon\|thrown weapon]], you gain a +2 bonus to the damage roll.
+> You can draw a [[Equipment/Weapons\|weapon]] that has the [[weapon\|thrown property]] as part of the attack you make with the [[Equipment/Weapons\|weapon]]. In addition, when you hit with a ranged attack using a [[thrown weapon\|thrown weapon]], you gain a +2 bonus to the damage roll.
 
 > [!info] Two-Weapon Fighting. 
 > When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
@@ -171,7 +171,7 @@ Martial Archetypes
 · [[Classes/Ronin/Martial Archetypes (Subclasses)/Samurai (Samurai)\|Samurai (Samurai)]]
 · [[Classes/Ronin/Martial Archetypes (Subclasses)/Special Operative (Psi Warrior)\|Special Operative (Psi Warrior)]]
 · [[Classes/Ronin/Martial Archetypes (Subclasses)/Tactical Sniper (Arcane Archer)\|Tactical Sniper (Arcane Archer)]]
-· [[Tactician (Battle Master)\|Tactician (Battle Master)]]
-· [[Techno-Blade (Eldritch Knight)\|Techno-Blade (Eldritch Knight)]]
-· [[Vanguard (Banneret)\|Vanguard (Banneret)]]
-· [[Warlord (Champion)\|Warlord (Champion)]]
+· [[Classes/Ronin/Martial Archetypes (Subclasses)/Tactician (Battle Master)\|Tactician (Battle Master)]]
+· [[Classes/Ronin/Martial Archetypes (Subclasses)/Techno-Blade (Eldritch Knight)\|Techno-Blade (Eldritch Knight)]]
+· [[Classes/Ronin/Martial Archetypes (Subclasses)/Vanguard (Banneret)\|Vanguard (Banneret)]]
+· [[Classes/Ronin/Martial Archetypes (Subclasses)/Warlord (Champion)\|Warlord (Champion)]]
