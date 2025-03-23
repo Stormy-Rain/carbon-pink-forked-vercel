@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ronin/ronin-fighter/","noteIcon":"sword","updated":"2025-03-23T10:47:39.607-07:00"}
+{"dg-publish":true,"permalink":"/classes/ronin/ronin-fighter/","noteIcon":"sword","updated":"2025-03-23T10:56:23.932-07:00"}
 ---
 
 ## “Hit ‘em hard and don’t let up. You’ll know it’s over when the screaming stops.”
