@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"noteIcon":"","updated":"2025-03-23T07:01:36.469-07:00"}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"noteIcon":"","updated":"2025-04-12T15:10:03.779-07:00"}
 ---
 
 Welcome to Carbon Pink Forked, a reformatted version of the Carbon Pink wiki.
