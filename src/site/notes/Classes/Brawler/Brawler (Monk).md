@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/brawler/brawler-monk/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-12T15:12:46.116-07:00"}
+{"dg-publish":true,"permalink":"/classes/brawler/brawler-monk/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-12T15:19:54.057-07:00"}
 ---
 
 ## “There’s only gonna be two hits in this fight: when my fist hits your face, and when your face hits the floor.”
@@ -45,7 +45,7 @@ For a [[brawler\|brawler]], becoming a [[freelancer\|freelancer]] means leaving 
 |16| +5 | 1d8 | 16 | +25 ft. | [[Ability Score Improvement\|Ability Score Improvement]] |
 |17| +6 | 1d10 | 17 | +25 ft. | [[Brawler Clan Feature\|Brawler Clan Feature]] |
 |18| +6 | 1d10 | 18 | +30 ft. | [[Ghost in the Machine\|Ghost in the Machine]] |
-|19| +6 | 1d10 | 19 | +30 ft. | [[migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180545_0022401B-F408-486B-B059-6B3F055AABBC.png]] |
+|19| +6 | 1d10 | 19 | +30 ft. | [[Ability Score Improvement\|Ability Score Improvement]] |
 |20| +6 | 1d10 | 20 | +30 ft. | [[CHI Engine\|CHI Engine]] |
 
 ![migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180207_BBB896B8-1FC9-4B66-A342-37886B453B8E.png](/img/user/Classes/Brawler/Img/migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180207_BBB896B8-1FC9-4B66-A342-37886B453B8E.png)
