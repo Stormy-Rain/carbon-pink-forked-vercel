@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/brawler/brawler-monk/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-15T13:34:59.691-07:00"}
+{"dg-publish":true,"permalink":"/classes/brawler/brawler-monk/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-15T13:36:51.127-07:00"}
 ---
 
 ## “There’s only gonna be two hits in this fight: when my fist hits your face, and when your face hits the floor.”
@@ -53,31 +53,31 @@ For a [[Classes/Brawler/Brawler (Monk)\|Brawler]], becoming a [[freelancer\|free
 ## Class Features
 As a brawler, you gain the following class features.
 
-> ####  Hit Points
->Hit Dice: 1d8 per [[brawler level\|brawler level]]
->Hit Points at 1st Level: 8 + your Constitution modifier
->Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per [[brawler\|brawler]] level after 1st
+####  Hit Points
+Hit Dice: 1d8 per [[brawler level\|brawler level]]
+Hit Points at 1st Level: 8 + your Constitution modifier
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per [[brawler\|brawler]] level after 1st
 
-> #### Proficiencies
->[[Equipment/Armor\|Armor]]: None
->[[Equipment/Weapons\|Weapons]]: [[Civilian weapons\|Civilian weapons]], [[machetes\|machetes]]
->[[Tools\|Tools]]: Choose one type of [[tool kit\|tool kit]] or one [[vehicle\|vehicle]]
->Saving Throws: Strength, Dexterity
->[[Skills\|Skills]]: Choose two from Acrobatics, Athletics, Culture, History, Insight, and Stealth
+#### Proficiencies
+[[Equipment/Armor\|Armor]]: None
+[[Equipment/Weapons\|Weapons]]: [[Civilian weapons\|Civilian weapons]], [[machetes\|machetes]]
+[[Tools\|Tools]]: Choose one type of [[tool kit\|tool kit]] or one [[vehicle\|vehicle]]
+Saving Throws: Strength, Dexterity
+[[Skills\|Skills]]: Choose two from Acrobatics, Athletics, Culture, History, Insight, and Stealth
 
-> #### Equipment
->You start with the following equipment, in addition to the equipment granted by your background:
->
-> - (a) a [[machete\|machete]] or (b) any [[civilian weapon\|civilian weapon]]
-> - (a) a delver’s pack or (b) hobo’s pack
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
 
-> #### Martial Arts
->At 1st level, your practice of [[Classes/Brawler/Brawler (Monk)#^2aafbb\|martial arts]] gives you mastery of combat styles that use [[unarmed strikes\|unarmed strikes]] and [[brawler weapons\|brawler weapons]], which are [[any civilian melee weapon\|any civilian melee weapon]] and [[machetes\|machetes]].
->
->You gain the following benefits while you are [[unarmed\|unarmed]] or wielding only [[brawler weapons\|brawler weapons]] and you aren’t wearing [[Equipment/Armor\|armor]] or wielding a [[shield\|shield]]:
-> - You can use Dexterity instead of Strength for the attack and damage rolls of your [[unarmed strikes\|unarmed strikes]] and [[brawler weapons\|brawler weapons]].
-> - You can roll a d4 in place of the normal damage of your [[unarmed strike\|unarmed strike]] or [[brawler weapon\|brawler weapon]]. This die changes as you gain [[brawler\|brawler]] levels, as shown in the [[Classes/Brawler/Brawler (Monk)#Brawler Table\|Martial Arts column of the Brawler table]].
-> - When you use the Attack action with an [[unarmed strike\|unarmed strike]] or a [[brawler weapon\|brawler weapon]] on your turn, you can make one [[unarmed strike\|unarmed strike]] as a bonus action. For example, if you take the Attack action and attack with a [[baton\|baton]], you can also make an [[unarmed strike\|unarmed strike]] as a bonus action, assuming you haven’t already taken a bonus action this turn.
+ - (a) a [[machete\|machete]] or (b) any [[civilian weapon\|civilian weapon]]
+ - (a) a delver’s pack or (b) hobo’s pack
+
+#### Martial Arts
+At 1st level, your practice of [[Classes/Brawler/Brawler (Monk)#^2aafbb\|martial arts]] gives you mastery of combat styles that use [[unarmed strikes\|unarmed strikes]] and [[brawler weapons\|brawler weapons]], which are [[any civilian melee weapon\|any civilian melee weapon]] and [[machetes\|machetes]].
+
+You gain the following benefits while you are [[unarmed\|unarmed]] or wielding only [[brawler weapons\|brawler weapons]] and you aren’t wearing [[Equipment/Armor\|armor]] or wielding a [[shield\|shield]]:
+ - You can use Dexterity instead of Strength for the attack and damage rolls of your [[unarmed strikes\|unarmed strikes]] and [[brawler weapons\|brawler weapons]].
+ - You can roll a d4 in place of the normal damage of your [[unarmed strike\|unarmed strike]] or [[brawler weapon\|brawler weapon]]. This die changes as you gain [[brawler\|brawler]] levels, as shown in the [[Classes/Brawler/Brawler (Monk)#Brawler Table\|Martial Arts column of the Brawler table]].
+ - When you use the Attack action with an [[unarmed strike\|unarmed strike]] or a [[brawler weapon\|brawler weapon]] on your turn, you can make one [[unarmed strike\|unarmed strike]] as a bonus action. For example, if you take the Attack action and attack with a [[baton\|baton]], you can also make an [[unarmed strike\|unarmed strike]] as a bonus action, assuming you haven’t already taken a bonus action this turn.
 { #2aafbb}
 
 

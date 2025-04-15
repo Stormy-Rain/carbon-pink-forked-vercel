@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ronin/ronin-fighter/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-15T13:34:00.952-07:00"}
+{"dg-publish":true,"permalink":"/classes/ronin/ronin-fighter/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-15T13:35:52.751-07:00"}
 ---
 
 ## “Hit ‘em hard and don’t let up. You’ll know it’s over when the screaming stops.”
@@ -54,65 +54,65 @@ Some [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] wind up on the outs with
 
 As a [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]], you gain the following class features.
 
-> #### Hit Points
-> Hit Dice: 1d10 per [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] level
-> Hit Points at 1st Level: 10 + your Constitution modifier
-> Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] level after 1st
+#### Hit Points
+Hit Dice: 1d10 per [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] level
+Hit Points at 1st Level: 10 + your Constitution modifier
+Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per [[Classes/Ronin/Ronin (Fighter)\|Ronin (Fighter)]] level after 1st
 
-> #### Proficiencies
-> [[Equipment/Armor\|Armor]]: All armor, [[Shield\|Shield]]s
-> [[Equipment/Weapons\|Weapons]]: [[Equipment/Weapons#Civilian Weapons\|Civilian Weapons]], [[Equipment/Weapons#Military Weapons\|Military Weapons]]
-> Tools: None
-> Saving Throws: Strength, Constitution
-> Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+#### Proficiencies
+[[Equipment/Armor\|Armor]]: All armor, [[Shield\|Shield]]s
+[[Equipment/Weapons\|Weapons]]: [[Equipment/Weapons#Civilian Weapons\|Civilian Weapons]], [[Equipment/Weapons#Military Weapons\|Military Weapons]]
+Tools: None
+Saving Throws: Strength, Constitution
+Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
-> #### Equipment
-> You start with the following equipment, in addition to the equipment granted by your background:
-> > [!info]
-> > · (a) [[Equipment/Armor\|Ceramiron Armor]] or (b) [[Equipment/Armor\|Nanofilm Armor]], [[Equipment/Weapons\|Combat rifle]], and 20 bullets
-> > · (a) a [[Equipment/Weapons#Military Weapons\|Military Weapons]] and a [[Shield\|Shield]] or (b) two [[Equipment/Weapons#Military Weapons\|Military Weapons]]
-> > · (a) a [[Equipment/Weapons\|Heavy Pistol]] and 20 bullets or (b) two [[Equipment/Weapons\|light pistols]] and 20 bullets
-> > · (a) a delver’s pack or (b) a hobo’s pack
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+> [!info]
+> · (a) [[Equipment/Armor\|Ceramiron Armor]] or (b) [[Equipment/Armor\|Nanofilm Armor]], [[Equipment/Weapons\|Combat rifle]], and 20 bullets
+> · (a) a [[Equipment/Weapons#Military Weapons\|Military Weapons]] and a [[Shield\|Shield]] or (b) two [[Equipment/Weapons#Military Weapons\|Military Weapons]]
+> · (a) a [[Equipment/Weapons\|Heavy Pistol]] and 20 bullets or (b) two [[Equipment/Weapons\|light pistols]] and 20 bullets
+> · (a) a delver’s pack or (b) a hobo’s pack
 
 
-> #### Fighting Style
-> You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
-> 
-> > [!info] Blind Fighting. 
-> > You have blindsight with a range of 10 feet. Within this range, you can effectively see anything that isn’t behind total cover, even if you’re blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
-> 
-> > [!info] Defense. 
-> > While you are wearing [[Equipment/Armor\|Armor]], you gain a +1 bonus to AC.
-> 
-> > [!info] Dueling. 
-> > When you are wielding a [[melee weapon\|melee weapon]] in one hand and no other [[Equipment/Weapons\|Weapons]], you gain a +2 bonus to damage rolls with that [[Equipment/Weapons\|weapon]].
-> 
-> > [!info] Great Weapon Fighting. 
-> > When you roll a 1 or 2 on a damage die for an attack you make with a [[melee weapon\|melee weapon]] that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The [[Equipment/Weapons\|weapon]] must have the two-handed or versatile property for you to gain this benefit.
-> 
-> > [!info] Gun Fu. 
-> > When making a ranged attack with a [[one-handed weapon\|one-handed weapon]] while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.
-> 
-> > [!info] Interception. 
-> > When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [[Shield\|Shield]] or a [[Equipment/Weapons#Civilian Weapons\|Civilian]] or [[Equipment/Weapons#Military Weapons\|Military weapon]] to use this reaction.
-> 
-> > [!info] Protection. 
-> > When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a [[Shield\|Shield]].
-> 
-> > [!info] Pugilism. 
-> > Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren’t wielding any [[Equipment/Weapons\|Weapons]] or a [[Shield\|Shield]] when you make the attack roll, the d6 increases to d8.
-> 
-> > [!info] Rifleman. 
-> > You gain a +2 bonus to attack rolls you make with [[Equipment/Weapons\|two-handed]] [[ranged weapons\|ranged weapons]].
-> 
-> > [!info] Tactical Technique. 
-> > You learn one maneuver of your choice from among those available to the Tactician archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice). You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
-> 
-> > [!info] Thrown Weapon Fighting. 
-> > You can draw a [[Equipment/Weapons\|weapon]] that has the [[weapon\|thrown property]] as part of the attack you make with the [[Equipment/Weapons\|weapon]]. In addition, when you hit with a ranged attack using a [[thrown weapon\|thrown weapon]], you gain a +2 bonus to the damage roll.
-> 
-> > [!info] Two-Weapon Fighting. 
-> > When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+#### Fighting Style
+You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+
+> [!info] Blind Fighting. 
+> You have blindsight with a range of 10 feet. Within this range, you can effectively see anything that isn’t behind total cover, even if you’re blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+
+> [!info] Defense. 
+> While you are wearing [[Equipment/Armor\|Armor]], you gain a +1 bonus to AC.
+
+> [!info] Dueling. 
+> When you are wielding a [[melee weapon\|melee weapon]] in one hand and no other [[Equipment/Weapons\|Weapons]], you gain a +2 bonus to damage rolls with that [[Equipment/Weapons\|weapon]].
+
+> [!info] Great Weapon Fighting. 
+> When you roll a 1 or 2 on a damage die for an attack you make with a [[melee weapon\|melee weapon]] that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The [[Equipment/Weapons\|weapon]] must have the two-handed or versatile property for you to gain this benefit.
+
+> [!info] Gun Fu. 
+> When making a ranged attack with a [[one-handed weapon\|one-handed weapon]] while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.
+
+> [!info] Interception. 
+> When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [[Shield\|Shield]] or a [[Equipment/Weapons#Civilian Weapons\|Civilian]] or [[Equipment/Weapons#Military Weapons\|Military weapon]] to use this reaction.
+
+> [!info] Protection. 
+> When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a [[Shield\|Shield]].
+
+> [!info] Pugilism. 
+> Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren’t wielding any [[Equipment/Weapons\|Weapons]] or a [[Shield\|Shield]] when you make the attack roll, the d6 increases to d8.
+
+> [!info] Rifleman. 
+> You gain a +2 bonus to attack rolls you make with [[Equipment/Weapons\|two-handed]] [[ranged weapons\|ranged weapons]].
+
+> [!info] Tactical Technique. 
+> You learn one maneuver of your choice from among those available to the Tactician archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice). You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+
+> [!info] Thrown Weapon Fighting. 
+> You can draw a [[Equipment/Weapons\|weapon]] that has the [[weapon\|thrown property]] as part of the attack you make with the [[Equipment/Weapons\|weapon]]. In addition, when you hit with a ranged attack using a [[thrown weapon\|thrown weapon]], you gain a +2 bonus to the damage roll.
+
+> [!info] Two-Weapon Fighting. 
+> When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 ![migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180288_497FAB6F-F3C0-47C0-8F87-987C571A2258.png](/img/user/Classes/Ronin/Img/migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180288_497FAB6F-F3C0-47C0-8F87-987C571A2258.png)
 
