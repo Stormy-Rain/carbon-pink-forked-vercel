@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/brawler/brawler-monk/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-15T13:29:43.319-07:00"}
+{"dg-publish":true,"permalink":"/classes/brawler/brawler-monk/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-15T13:32:32.314-07:00"}
 ---
 
 ## “There’s only gonna be two hits in this fight: when my fist hits your face, and when your face hits the floor.”
@@ -53,25 +53,25 @@ For a [[Classes/Brawler/Brawler (Monk)\|Brawler]], becoming a [[freelancer\|free
 ## Class Features
 As a brawler, you gain the following class features.
 
-> ###  Hit Points
+> ####  Hit Points
 >Hit Dice: 1d8 per [[brawler level\|brawler level]]
 >Hit Points at 1st Level: 8 + your Constitution modifier
 >Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per [[brawler\|brawler]] level after 1st
 
-> ### Proficiencies
+> #### Proficiencies
 >[[Equipment/Armor\|Armor]]: None
 >[[Equipment/Weapons\|Weapons]]: [[Civilian weapons\|Civilian weapons]], [[machetes\|machetes]]
 >[[Tools\|Tools]]: Choose one type of [[tool kit\|tool kit]] or one [[vehicle\|vehicle]]
 >Saving Throws: Strength, Dexterity
 >[[Skills\|Skills]]: Choose two from Acrobatics, Athletics, Culture, History, Insight, and Stealth
 
-> [!info] Equipment
+> #### Equipment
 >You start with the following equipment, in addition to the equipment granted by your background:
 >
 > - (a) a [[machete\|machete]] or (b) any [[civilian weapon\|civilian weapon]]
 > - (a) a delver’s pack or (b) hobo’s pack
 
-> [!info] Martial Arts
+> #### Martial Arts
 >At 1st level, your practice of [[Classes/Brawler/Brawler (Monk)#^2aafbb\|martial arts]] gives you mastery of combat styles that use [[unarmed strikes\|unarmed strikes]] and [[brawler weapons\|brawler weapons]], which are [[any civilian melee weapon\|any civilian melee weapon]] and [[machetes\|machetes]].
 >
 >You gain the following benefits while you are [[unarmed\|unarmed]] or wielding only [[brawler weapons\|brawler weapons]] and you aren’t wearing [[Equipment/Armor\|armor]] or wielding a [[shield\|shield]]:
