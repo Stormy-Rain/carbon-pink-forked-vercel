@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/brawler/brawler-monk/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-12T15:19:54.057-07:00"}
+{"dg-publish":true,"permalink":"/classes/brawler/brawler-monk/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-15T12:50:44.752-07:00"}
 ---
 
 ## “There’s only gonna be two hits in this fight: when my fist hits your face, and when your face hits the floor.”
@@ -88,11 +88,11 @@ As a brawler, you gain the following class features.
 ![migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180545_0022401B-F408-486B-B059-6B3F055AABBC.png](/img/user/Classes/Brawler/Img/migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180545_0022401B-F408-486B-B059-6B3F055AABBC.png)
 
 #### CHI
-Starting at 2nd level, your training allows you to harness the overclocking ability of your [[Classes/Brawler/Brawler (Monk)#CHI\|Cerebral Haste Insert (CHI)]] implant. Your access to this implant is represented by a number of [[CHI points\|CHI points]]. Your brawler level determines the number of points you have, as shown in the [[Classes/Brawler/Brawler (Monk)#Brawler Table\|CHI Points column of the Brawler table]].
+Starting at 2nd level, your training allows you to harness the overclocking ability of your [[Classes/Brawler/Brawler (Monk)#CHI\|Cerebral Haste Insert (CHI)]] implant. Your access to this implant is represented by a number of [[Classes/Brawler/Brawler (Monk)#CHI\|CHI points]]. Your brawler level determines the number of points you have, as shown in the [[Classes/Brawler/Brawler (Monk)#Brawler Table\|CHI Points column of the Brawler table]].
 
 You can spend these points to fuel various [[CHI features\|CHI features]]. You start knowing three such features: [[Flurry Attack\|Flurry Attack]], [[Patient Defense\|Patient Defense]], and [[Overclock Rush\|Overclock Rush]]. You learn more [[CHI features\|CHI features]] as you gain levels in this class.
 
-When you spend a [[CHI point\|CHI point]], it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended [[CHI\|CHI]] back into yourself. You must spend at least 30 minutes of the rest meditating to regain your [[CHI points\|CHI points]].
+When you spend a [[CHI point\|CHI point]], it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended [[CHI\|CHI]] back into yourself. You must spend at least 30 minutes of the rest meditating to regain your [[Classes/Brawler/Brawler (Monk)#CHI\|CHI points]].
 
 Some of your [[CHI features\|CHI features]] require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
 > - [[CHI\|CHI]] save DC = 8 + your proficiency bonus + your Wisdom modifier
@@ -128,13 +128,13 @@ Some of your [[CHI features\|CHI features]] require your target to make a saving
 > You can forgo taking this feature to take a [[feat\|feat]] of your choice instead.
 
 > [!info] Fast Healing
-> At 4th level, as an action, you can spend 2 [[CHI points\|CHI points]] and roll a [[Martial Arts die\|Martial Arts die]]. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
+> At 4th level, as an action, you can spend 2 [[Classes/Brawler/Brawler (Monk)#CHI\|CHI points]] and roll a [[Martial Arts die\|Martial Arts die]]. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
 
 > [!info] Extra Attack
 > Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 > [!info] Focused Aim
-> When you miss with an attack roll, starting at 5th level, you can spend from 1 to 3 [[CHI points\|CHI points]] to gain a +2 bonus on the attack roll for each point you spend, potentially turning the miss into a hit.
+> When you miss with an attack roll, starting at 5th level, you can spend from 1 to 3 [[Classes/Brawler/Brawler (Monk)#CHI\|CHI points]] to gain a +2 bonus on the attack roll for each point you spend, potentially turning the miss into a hit.
 
 > [!info] Stunning Strike
 > Starting at 5th level, you can interfere with the [[implants\|implants]] and energy flow in an opponent’s body. When you hit another creature with a [[melee weapon\|melee weapon]] attack, you can spend 1 [[CHI point\|CHI point]] to attempt a [[stunning strike\|stunning strike]]. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
@@ -163,15 +163,15 @@ Some of your [[CHI features\|CHI features]] require your target to make a saving
 >Additionally, whenever you make a saving throw and fail, you can spend 1 [[CHI point\|CHI point]] to reroll it and take the second result.
 
 > [!info] Perfected Metabolism
-> At 15th level, your [[implants\|implants]] and training sustain you so that you suffer none of the frailty of old age. You can still die of old age, however. In addition, you no longer need food or water, directly absorbing life-sustaining energy from your [[CHI implant\|CHI implant]].
+> At 15th level, your [[implants\|implants]] and training sustain you so that you suffer none of the frailty of old age. You can still die of old age, however. In addition, you no longer need food or water, directly absorbing life-sustaining energy from your [[Classes/Brawler/Brawler (Monk)#CHI\|CHI implant]].
 
 > [!info] Ghost in the Machine
-> Beginning at 18th level, you can use your action to spend 4 [[CHI points\|CHI points]] to become invisible for 1 minute. During that time, you also have resistance to all damage but kinetic damage.
+> Beginning at 18th level, you can use your action to spend 4 [[Classes/Brawler/Brawler (Monk)#CHI\|CHI points]] to become invisible for 1 minute. During that time, you also have resistance to all damage but kinetic damage.
 >
->Additionally, you can spend 8 [[CHI points\|CHI points]] to cast the [[Group Sense-Tank Projection tech\|Group Sense-Tank Projection tech]], without needing a tech focus. When you do so, you can’t take any other creatures with you.
+>Additionally, you can spend 8 [[Classes/Brawler/Brawler (Monk)#CHI\|CHI points]] to cast the [[Group Sense-Tank Projection tech\|Group Sense-Tank Projection tech]], without needing a tech focus. When you do so, you can’t take any other creatures with you.
 
 > [!info] CHI Engine
-> At 20th level, when you roll for initiative and have no [[CHI points\|CHI points]] remaining, you regain 4 [[CHI points\|CHI points]].
+> At 20th level, when you roll for initiative and have no [[Classes/Brawler/Brawler (Monk)#CHI\|CHI points]] remaining, you regain 4 [[Classes/Brawler/Brawler (Monk)#CHI\|CHI points]].
 
 ## Brawler Clans
 

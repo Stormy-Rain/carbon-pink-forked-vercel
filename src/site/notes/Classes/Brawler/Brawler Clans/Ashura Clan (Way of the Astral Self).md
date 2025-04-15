@@ -1,27 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/classes/brawler/brawler-clans/ashura-clan-way-of-the-astral-self/","noteIcon":"","updated":"2025-04-15T12:45:23.076-07:00"}
+{"dg-publish":true,"permalink":"/classes/brawler/brawler-clans/ashura-clan-way-of-the-astral-self/","noteIcon":"","updated":"2025-04-15T12:52:20.131-07:00"}
 ---
 
 ## “I just can’t stand that there’s anyone in the world who’s stronger than me.”
 <sub>As Seen on [SlimWiki](https://slimwiki.com/carbon-pink/public-wiki-w-knoldiw/ashura-clan) and [5E Way of the Astral Self](https://dnd5e.wikidot.com/monk:astral-self)!</sub>
 
-Named for the many-armed devils of Old World mythology, [[brawlers\|brawlers]] of the [[Asura Clan\|Asura Clan]] use hardlight peripherals and psyche-splitting techniques to manifest additional arms—and eventually an entirely separate self, the [[“Asura”\|“Asura”]] of their clan name. This dissociative self is forged from the [[brawler’s\|brawler’s]] most violent and selfish impulses, the part of the mind that seeks self-affirmation through combat and strength. As such, it only comes forth in full force during battle, but members of the clan are known to look inward for guidance, even if it just seems like talking to themselves from an outside point of view.
+Named for the many-armed devils of Old World mythology, [[Classes/Brawler/Brawler (Monk)\|Brawler]] of the [[Classes/Brawler/Brawler Clans/Ashura Clan (Way of the Astral Self)\|Ashura Clan]] use hardlight peripherals and psyche-splitting techniques to manifest additional arms—and eventually an entirely separate self, the [[Classes/Brawler/Brawler Clans/Ashura Clan (Way of the Astral Self)\|“Asura”]] of their clan name. This dissociative self is forged from the [[Classes/Brawler/Brawler (Monk)\|Brawler's]] most violent and selfish impulses, the part of the mind that seeks self-affirmation through combat and strength. As such, it only comes forth in full force during battle, but members of the clan are known to look inward for guidance, even if it just seems like talking to themselves from an outside point of view.
 
 #### Arms of the Asura
-At 3rd level, your mastery of your [[CHI implant\|CHI implant]] allows you to manifest additional arms made from hardlight and controlled by the implant. As a bonus action, you can spend 1 [[CHI point\|CHI point]] to summon forth the arms of the [[Asura\|Asura]]. When you do so, each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity saving throw or take kinetic damage equal to two rolls of your Martial Arts die.
+At 3rd level, your mastery of your [[Classes/Brawler/Brawler (Monk)#CHI\|CHI implant]] allows you to manifest additional arms made from hardlight and controlled by the implant. As a bonus action, you can spend 1 [[ [[Brawler (Monk)#CHI\|CHI point]] to summon forth the arms of the [[Classes/Brawler/Brawler Clans/Ashura Clan (Way of the Astral Self)\|Asura]]. When you do so, each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity saving throw or take kinetic damage equal to two rolls of your Martial Arts die.
 
 For 10 minutes, these spectral arms hover near your shoulders or surround your arms (your choice). You determine the arms’ appearance, and they vanish early if you are incapacitated or die.
 
 While the hardlight arms are present, you gain the following benefits:
 
  - You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and Strength saving throws.
-
 - You can use the hardlight arms to make unarmed strikes, and they count as being armed with a brawler melee weapon.
 - When you make an unarmed strike with the arms on your turn, your reach for it is 5 feet greater than normal.
 - The unarmed strikes you make with the arms can use your Wisdom modifier in place of your Strength or Dexterity modifier for the attack and damage rolls, and their damage type is kinetic.
 
 #### Visage of the Asura
-When you reach 6th level, you can summon the visage of your dissociative self. As a bonus action, or as part of the bonus action you take to activate [[Arms of the Asura\|Arms of the Asura]], you can spend 1 [[CHI point\|CHI point]] to summon this visage for 10 minutes. It vanishes early if you are incapacitated or die.
+When you reach 6th level, you can summon the visage of your dissociative self. As a bonus action, or as part of the bonus action you take to activate [[Classes/Brawler/Brawler Clans/Ashura Clan (Way of the Astral Self)#Arms of the Asura\|Arms of the Asura]], you can spend 1 [[ [[Brawler (Monk)#CHI\|CHI point]] to summon this visage for 10 minutes. It vanishes early if you are incapacitated or die.
 
 The spectral visage covers your face like a helmet or mask. You determine its appearance.
 
@@ -40,7 +39,7 @@ While the hardlight body is present, you gain the following benefits.
 - Empowered Arms. Once on each of your turns when you hit a target with the Arms of the Asura, you can deal extra damage to the target equal to your Martial Arts die.
 
 #### Awakened Asura
-Starting at 17th level, your Asura self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 [[CHI points\|CHI points]] to summon your Asura and awaken it for 10 minutes. This awakening ends early if you are incapacitated or die.
+Starting at 17th level, your Asura self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 [[Classes/Brawler/Brawler (Monk)#CHI\|CHI points]] to summon your Asura and awaken it for 10 minutes. This awakening ends early if you are incapacitated or die.
 
 While your Asura is awakened, you gain the following benefits.
 
