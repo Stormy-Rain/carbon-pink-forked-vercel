@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/brawler/brawler-monk/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-15T13:54:50.098-07:00"}
+{"dg-publish":true,"permalink":"/classes/brawler/brawler-monk/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-15T14:05:06.132-07:00"}
 ---
 
 ## “There’s only gonna be two hits in this fight: when my fist hits your face, and when your face hits the floor.”
@@ -81,9 +81,54 @@ You gain the following benefits while you are [[unarmed\|unarmed]] or wielding o
  - You can roll a d4 in place of the normal damage of your [[unarmed strike\|unarmed strike]] or [[brawler weapon\|brawler weapon]]. This die changes as you gain [[brawler\|brawler]] levels, as shown in the [[Classes/Brawler/Brawler (Monk)#Brawler Table\|Martial Arts column of the Brawler table]].
  - When you use the Attack action with an [[unarmed strike\|unarmed strike]] or a [[brawler weapon\|brawler weapon]] on your turn, you can make one [[unarmed strike\|unarmed strike]] as a bonus action. For example, if you take the Attack action and attack with a [[baton\|baton]], you can also make an [[unarmed strike\|unarmed strike]] as a bonus action, assuming you haven’t already taken a bonus action this turn.
 
-### Unarmored Defense
+
+
+#### Unarmored Defense
 Beginning at 1st level, while you are wearing no [[Equipment/Armor\|armor]] and not wielding a [[shield\|shield]], your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
-{ #392894}
+
+#### Unarmored Movement
+Starting at 2nd level, your speed increases by 10 feet while you are not wearing [[Equipment/Armor\|armor]] or wielding a [[shield\|shield]]. This bonus increases when you reach certain [[brawler\|brawler]] levels, as shown in the [[Classes/Brawler/Brawler (Monk)#Brawler Table\|Brawler table]].
+
+#### Weapon Training
+As you refine your [[martial arts style\|martial arts style]], you train yourself to use a variety of [[Equipment/Weapons\|weapons]] as [[brawler weapons\|brawler weapons]]. During a short or long rest, you can briefly practice with a [[weapon\|weapon]] to count it as a [[brawler weapon\|brawler weapon]] until you use this feature again. The chosen weapon must meet these criteria:
+- The [[weapon\|weapon]] must be a [[civilian\|civilian]] or [[military weapon\|military weapon]].
+- You must be proficient with it.
+- It must lack the heavy and special properties.
+
+#### Brawler Clan
+When you reach 3rd level, you commit yourself to a [[brawler\|brawler]] tradition known as a clan. Your clan grants you features at 3rd level and again at 6th, 11th, and 17th level.
+
+#### Deflect Missiles
+Starting at 3rd level, you can use your reaction to deflect the projectile when you are hit by a ranged attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your [[brawler\|brawler]] level. You can only use this ability against mundane, muscle-powered attacks, such as thrown [[knives\|knives]], [[slingshots\|slingshots]], and [[archery\|archery]] attacks.
+
+#### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+
+You can forgo taking this feature to take a [[feat\|feat]] of your choice instead.
+
+#### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+#### Empowered Strikes
+Starting at 6th level, your [[unarmed strikes\|unarmed strikes]] count as [[tech\|tech]] for the purpose of overcoming resistance and immunity to mundane attacks and damage.
+
+#### Evasion
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a [[grenade’s\|grenade’s]] blast radius. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+#### Iron Will
+Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
+
+#### Parkour
+At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
+
+#### Iron Body
+At 10th level, your mastery of your own metabolism makes you immune to disease and poison.
+
+#### Parry Bullets
+Starting at 13th level, your ability to [[deflect missiles\|deflect missiles]] is improved, allowing you to also deflect bullets and tech-enhanced projectiles (but not pure [[tech\|tech]] attacks, like [[micro seeker\|micro seeker]]). To deflect such high-powered projectiles, you must be armed with a [[brawler melee weapon\|brawler melee weapon]].
+
+
+
 
 
 ![migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180545_0022401B-F408-486B-B059-6B3F055AABBC.png](/img/user/Classes/Brawler/Img/migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180545_0022401B-F408-486B-B059-6B3F055AABBC.png)
@@ -100,7 +145,6 @@ Some of your [[Classes/Brawler/Brawler (Monk)#CHI features\|CHI features]] requi
 
 #### CHI features
 
-
 > [!info] Flurry Attack. 
 > Immediately after you take the Attack action on your turn, you can spend 1 CHI point to make two unarmed strikes as a bonus action.
 
@@ -110,38 +154,11 @@ Some of your [[Classes/Brawler/Brawler (Monk)#CHI features\|CHI features]] requi
 > [!info] Overclock Rush. 
 > You can spend 1 CHI point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
-> [!info] Unarmored Movement
-> Starting at 2nd level, your speed increases by 10 feet while you are not wearing [[Equipment/Armor\|armor]] or wielding a [[shield\|shield]]. This bonus increases when you reach certain [[brawler\|brawler]] levels, as shown in the [[Classes/Brawler/Brawler (Monk)#Brawler Table\|Brawler table]].
-{ #bf6b3c}
-
-
-> [!info] Weapon Training
->As you refine your [[martial arts style\|martial arts style]], you train yourself to use a variety of [[Equipment/Weapons\|weapons]] as [[brawler weapons\|brawler weapons]]. During a short or long rest, you can briefly practice with a [[weapon\|weapon]] to count it as a [[brawler weapon\|brawler weapon]] until you use this feature again. The chosen weapon must meet these criteria:
-> - The [[weapon\|weapon]] must be a [[civilian\|civilian]] or [[military weapon\|military weapon]].
-> - You must be proficient with it.
-> - It must lack the heavy and special properties.
-{ #88485d}
-
-
-> [!info] Brawler Clan
->When you reach 3rd level, you commit yourself to a [[brawler\|brawler]] tradition known as a clan. Your clan grants you features at 3rd level and again at 6th, 11th, and 17th level.
-
-> [!info] Deflect Missiles
-> Starting at 3rd level, you can use your reaction to deflect the projectile when you are hit by a ranged attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your [[brawler\|brawler]] level. You can only use this ability against mundane, muscle-powered attacks, such as thrown [[knives\|knives]], [[slingshots\|slingshots]], and [[archery\|archery]] attacks.
-
 > [!info] Quick Attack
 > Starting at 3rd level, when you take the [[Attack action\|Attack action]] on your turn, you can spend 1 [[CHI point\|CHI point]] to immediately make one attack with an [[unarmed strike\|unarmed strike]] or [[brawler weapon\|brawler weapon]] as a bonus action before the end of your turn.
 
-> [!info] Ability Score Improvement
-> When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
->
-> You can forgo taking this feature to take a [[feat\|feat]] of your choice instead.
-
 > [!info] Fast Healing
 > At 4th level, as an action, you can spend 2 [[Classes/Brawler/Brawler (Monk)#CHI\|CHI points]] and roll a [[Martial Arts die\|Martial Arts die]]. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
-
-> [!info] Extra Attack
-> Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 > [!info] Focused Aim
 > When you miss with an attack roll, starting at 5th level, you can spend from 1 to 3 [[Classes/Brawler/Brawler (Monk)#CHI\|CHI points]] to gain a +2 bonus on the attack roll for each point you spend, potentially turning the miss into a hit.
@@ -149,23 +166,7 @@ Some of your [[Classes/Brawler/Brawler (Monk)#CHI features\|CHI features]] requi
 > [!info] Stunning Strike
 > Starting at 5th level, you can interfere with the [[implants\|implants]] and energy flow in an opponent’s body. When you hit another creature with a [[melee weapon\|melee weapon]] attack, you can spend 1 [[CHI point\|CHI point]] to attempt a [[stunning strike\|stunning strike]]. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
 
-> [!info] Empowered Strikes
-> Starting at 6th level, your [[unarmed strikes\|unarmed strikes]] count as [[tech\|tech]] for the purpose of overcoming resistance and immunity to mundane attacks and damage.
-
-> [!info] Evasion
-> At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a [[grenade’s\|grenade’s]] blast radius. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
-
-> [!info] Iron Will
-> Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
-
-> [!info] Parkour
-> At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
-
-> [!info] Iron Body
-> At 10th level, your mastery of your own metabolism makes you immune to disease and poison.
-
-> [!info] Parry Bullets
-> Starting at 13th level, your ability to [[deflect missiles\|deflect missiles]] is improved, allowing you to also deflect bullets and tech-enhanced projectiles (but not pure [[tech\|tech]] attacks, like [[micro seeker\|micro seeker]]). To deflect such high-powered projectiles, you must be armed with a [[brawler melee weapon\|brawler melee weapon]].
+---
 
 > [!info] Diamond Soul
 >Beginning at 14th level, your mastery of your own body and mind grants you proficiency in all saving throws.
