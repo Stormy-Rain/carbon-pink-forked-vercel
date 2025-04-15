@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ronin/ronin-fighter/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-15T13:35:52.751-07:00"}
+{"dg-publish":true,"permalink":"/classes/ronin/ronin-fighter/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-15T13:39:58.467-07:00"}
 ---
 
 ## “Hit ‘em hard and don’t let up. You’ll know it’s over when the screaming stops.”
@@ -117,27 +117,22 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 ![migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180288_497FAB6F-F3C0-47C0-8F87-987C571A2258.png](/img/user/Classes/Ronin/Img/migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180288_497FAB6F-F3C0-47C0-8F87-987C571A2258.png)
 
 #### Second Wind
-
 You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your ronin level. Once you use this feature, you must finish a short or long rest before you can use it again.
 
 #### Action Surge
-
 Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
 
 #### Martial Archetype
-
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose one of the Martial Archetypes detailed at the end of this class. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
 #### Ability Score Improvement
-
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
 You can forgo taking this feature to take a feat of your choice instead.
 
 #### Martial Versatility
-
 Whenever you reach a level in this class that grants the Ability Score Improvement feature (as detailed above), you can do one of the following, as you shift the focus of your martial practice:
 
 · Replace a fighting style you know with another fighting style available to ronin.
@@ -145,13 +140,11 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 · If you know any maneuvers from the Tactician archetype, you can replace one maneuver you know with a different maneuver.
 
 #### Extra Attack
-
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
 #### Indomitable
-
 Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.

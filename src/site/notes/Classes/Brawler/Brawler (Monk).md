@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/brawler/brawler-monk/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-15T13:36:51.127-07:00"}
+{"dg-publish":true,"permalink":"/classes/brawler/brawler-monk/","metatags":" og:image: /img/Logo.png","noteIcon":"sword","updated":"2025-04-15T13:54:50.098-07:00"}
 ---
 
 ## “There’s only gonna be two hits in this fight: when my fist hits your face, and when your face hits the floor.”
@@ -73,12 +73,17 @@ You start with the following equipment, in addition to the equipment granted by 
 
 #### Martial Arts
 At 1st level, your practice of [[Classes/Brawler/Brawler (Monk)#^2aafbb\|martial arts]] gives you mastery of combat styles that use [[unarmed strikes\|unarmed strikes]] and [[brawler weapons\|brawler weapons]], which are [[any civilian melee weapon\|any civilian melee weapon]] and [[machetes\|machetes]].
+{ #2aafbb}
+
 
 You gain the following benefits while you are [[unarmed\|unarmed]] or wielding only [[brawler weapons\|brawler weapons]] and you aren’t wearing [[Equipment/Armor\|armor]] or wielding a [[shield\|shield]]:
  - You can use Dexterity instead of Strength for the attack and damage rolls of your [[unarmed strikes\|unarmed strikes]] and [[brawler weapons\|brawler weapons]].
  - You can roll a d4 in place of the normal damage of your [[unarmed strike\|unarmed strike]] or [[brawler weapon\|brawler weapon]]. This die changes as you gain [[brawler\|brawler]] levels, as shown in the [[Classes/Brawler/Brawler (Monk)#Brawler Table\|Martial Arts column of the Brawler table]].
  - When you use the Attack action with an [[unarmed strike\|unarmed strike]] or a [[brawler weapon\|brawler weapon]] on your turn, you can make one [[unarmed strike\|unarmed strike]] as a bonus action. For example, if you take the Attack action and attack with a [[baton\|baton]], you can also make an [[unarmed strike\|unarmed strike]] as a bonus action, assuming you haven’t already taken a bonus action this turn.
-{ #2aafbb}
+
+### Unarmored Defense
+Beginning at 1st level, while you are wearing no [[Equipment/Armor\|armor]] and not wielding a [[shield\|shield]], your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
+{ #392894}
 
 
 ![migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180545_0022401B-F408-486B-B059-6B3F055AABBC.png](/img/user/Classes/Brawler/Img/migration_9b1258d3-837d-4ada-b13e-4a05a988663f_uploads_attachment_attachment_180545_0022401B-F408-486B-B059-6B3F055AABBC.png)
@@ -94,16 +99,16 @@ Some of your [[Classes/Brawler/Brawler (Monk)#CHI features\|CHI features]] requi
 > - [[Classes/Brawler/Brawler (Monk)#CHI\|CHI]] save DC = 8 + your proficiency bonus + your Wisdom modifier
 
 #### CHI features
-> [!info] Unarmored Defense
->Beginning at 1st level, while you are wearing no [[Equipment/Armor\|armor]] and not wielding a [[shield\|shield]], your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
-{ #392894}
 
 
-> [!info] Flurry Attack. Immediately after you take the Attack action on your turn, you can spend 1 CHI point to make two unarmed strikes as a bonus action.
+> [!info] Flurry Attack. 
+> Immediately after you take the Attack action on your turn, you can spend 1 CHI point to make two unarmed strikes as a bonus action.
 
-> [!info] Patient Defense. You can spend 1 CHI point to take the Dodge action as a bonus action on your turn.
+> [!info] Patient Defense. 
+> You can spend 1 CHI point to take the Dodge action as a bonus action on your turn.
 
-> [!info] Overclock Rush. You can spend 1 CHI point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+> [!info] Overclock Rush. 
+> You can spend 1 CHI point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
 > [!info] Unarmored Movement
 > Starting at 2nd level, your speed increases by 10 feet while you are not wearing [[Equipment/Armor\|armor]] or wielding a [[shield\|shield]]. This bonus increases when you reach certain [[brawler\|brawler]] levels, as shown in the [[Classes/Brawler/Brawler (Monk)#Brawler Table\|Brawler table]].
